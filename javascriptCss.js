@@ -2,6 +2,7 @@ function abrirLink() {
     var abrir = document.getElementById("menuLink");
     abrir.style.display = "block";
     abrir.style.position = "fixed";
+    abrir.style.background = "gray";
     
     
  }
