@@ -71,6 +71,10 @@ aside img {
     margin-top: 0px;
 }
 
+aside p {
+    margin-bottom: 0px;   
+}
+
 ul {
     line-height: 1.6;
     display: none;
