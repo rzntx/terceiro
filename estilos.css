@@ -120,6 +120,7 @@ nav h3 {
 }
 
 .menus {
-    float: left
+    float: left;
+    display: inline-block;
 }
 
