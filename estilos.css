@@ -118,4 +118,9 @@ nav h3 {
     background: gray;
     float: left;
     display: none;
+}
+
+.menus {
+    display: inline;
+}
 
