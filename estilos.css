@@ -112,6 +112,7 @@ nav h3 {
 
 #listaFilmes {
     margin-bottom: 0;
+    float: left;
 }
 
 #menuFilme { 
