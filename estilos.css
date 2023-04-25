@@ -110,3 +110,12 @@ nav h3 {
     display: none;
 }
 
+#listaFilmes {
+    margin-bottom: 0;
+}
+
+#menuFilme { 
+    background: gray;
+    float: left;
+    display: none;
+
