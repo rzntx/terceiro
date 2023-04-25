@@ -96,7 +96,7 @@ a {
 
 #listaLink {
     float: left;
-    margin-bottom: 2px;
+    margin-bottom: 10px;
 }
 
 
@@ -112,15 +112,15 @@ nav h3 {
 
 #listaFilmes {
     float: left;
-    margin-left: 20%;
-    margim-bottom: 2px;
+    margin-left: 30%;
+    margim-bottom: 10px;
 }
 
 #menuFilme { 
     background: gray;
     float: left;
     display: none;
-    margin-left: 20%;
+    margin-left: 30%;
 }
 
 
