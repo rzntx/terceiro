@@ -17,7 +17,6 @@ body {
 }
 
 nav {
-    float: left;
     width: 80%;
 }
 
@@ -121,6 +120,6 @@ nav h3 {
 }
 
 .menus {
-    display: inline-block;
+    float: left
 }
 
