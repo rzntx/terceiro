@@ -96,6 +96,7 @@ a {
 
 #listaLink {
     margin-bottom: 0;
+    float: left;
 }
 
 
@@ -119,8 +120,5 @@ nav h3 {
     display: none;
 }
 
-.menus {
-    float: left;
-    display: inline-block;
-}
+
 
