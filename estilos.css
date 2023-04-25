@@ -121,6 +121,6 @@ nav h3 {
 }
 
 .menus {
-    display: inline;
+    display: inline-block;
 }
 
