@@ -17,21 +17,3 @@ function fecharLink() {
  manterLink.addEventListener("mouseover", abrirLink);
  manterLink.addEventListener("mouseout", fecharLink);
 
-function abrirFilmes() {
-    var abrirFilmes = document.getElementById("menuFilme");
-    abrirFilmes.style.display = "block";
-    abrirFilmes.style.position = "fixed";   
- }
-
-function fecharFilmes() {
-    var abrirFilmes = document.getElementById("menuFilme");
-    abrirFilmes.style.display = "none";  
- }
-
- var filme = document.getElementById("listaFilmes");
- filme.addEventListener("mouseover", abrirFilmes);
- filme.addEventListener("mouseout", fecharFilmes);
-
- var manterFilme = document.getElementById("menuFilme");
- manterFilme.addEventListener("mouseover", abrirFilmes);
- manterFilme.addEventListener("mouseout", fecharFilmes);
