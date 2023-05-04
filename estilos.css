@@ -113,8 +113,11 @@ nav h3 {
      float: left
     }
     
-    section, aside {
+    section {
         width: 100%
+    }
+    aside {
+        width: 98%
     }
     .clear {
         clear: none   
