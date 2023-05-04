@@ -116,5 +116,8 @@ nav h3 {
     section, aside {
         width: 100%
     }
+    .clear {
+        clear: none   
+    }
 }
 
