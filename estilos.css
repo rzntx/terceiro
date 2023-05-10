@@ -46,9 +46,6 @@ article {
     border: #19263A solid;
 }
 
-h1, p {
-    color: black;
-}
 
 hr {
     color: #FFF;
@@ -93,10 +90,13 @@ a {
 
 h1 {
     font-size: 24px;
+    color: #FFF;
 }
 
 p {
     font-size: 18px;
+    color: "black";
+}
 
 #titlePage {
     color: #FFF;
