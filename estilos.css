@@ -3,11 +3,7 @@ body {
     font-family: Arial;
 }
 
-video { 
-    float: left;
-    width: 300px;
-    height: 200px;
-}
+
 
 .container {
     margin: 0 auto;
