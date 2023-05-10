@@ -3,6 +3,9 @@ body {
     font-family: Arial;
 }
 
+video { 
+    float: right;
+}
 
 .container {
     margin: 0 auto;
