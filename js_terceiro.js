@@ -6,6 +6,8 @@ function boasVindas() {
      var inNome = document.getElementById("inNome");
  
      inNome.textContent = "Olá " + nome + ", seja bem-vindo(a)!";
+    
+    alert("Há duas atividades com prazo de entrega 16/05/2023");
 
 
  }
