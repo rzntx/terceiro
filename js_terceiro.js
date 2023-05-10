@@ -7,7 +7,7 @@ function boasVindas() {
  
      inNome.textContent = "Olá " + nome + ", seja bem-vindo(a)!";
     
-    alert("Há duas atividades com prazo de entrega 16/05/2023");
+    confirm("Há duas atividades com prazo de entrega 16/05/2023");
 
 
  }
