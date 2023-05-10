@@ -7,8 +7,7 @@ body {
 .container {
     color: #FFF;
     margin: 0 auto;
-    width: 90%;
-    opacity: 60%;
+    width: 90%
 }
 
 
@@ -88,6 +87,10 @@ a {
     color: red;
 }
 
+#titlePage {
+    color: #FFF
+}
+
 h1 {
     font-size: 24px;
     color: #FFF;
@@ -95,7 +98,7 @@ h1 {
 
 p {
     font-size: 18px;
-    color: "black";
+    color: black;
 }
 
 #titlePage {
