@@ -5,7 +5,8 @@ body {
 
 video { 
     float: left;
-    width: 30%;
+    width: 300px;
+    height: 200px;
 }
 
 .container {
