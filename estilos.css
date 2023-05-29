@@ -128,10 +128,10 @@ nav h3 {
 }
 
 #ident03 h1 {
-    text-align = "center" !important;   
+    text-align = center !important;   
 }
 #ident03 p {
-    text-align = "justify" !important;
+    text-align = justify !important;
 }
 
 
