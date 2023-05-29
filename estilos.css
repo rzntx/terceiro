@@ -123,6 +123,18 @@ nav h3 {
     display: none;
 }
 
+#ident03 {
+    padding = 5px;
+}
+
+#ident03 h1 {
+    text-align = "center";   
+}
+#ident03 {
+    text-align = "justify";
+}
+
+
 @media only screen and (min-width: 320px) and (max-width: 1080px) {
  section, aside {
      float: left
