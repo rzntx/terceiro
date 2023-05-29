@@ -40,7 +40,7 @@ section {
 }
 article {
     background-color: rgb(218, 217, 216);
-    padding: 0.5%;
+    padding: 1.5%;
     border-radius: 5px;
     border: #19263A solid;
 }
@@ -124,8 +124,7 @@ nav h3 {
 }
 
 #ident03 {
-    padding: 10px;
-    line-height: 1.5;
+    line-height: 2.0;
     
 }
 
