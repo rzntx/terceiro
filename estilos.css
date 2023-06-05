@@ -12,6 +12,9 @@ body {
 }
 
 
+    
+}
+
 
 #logoFace {
     width: 30%;
@@ -43,7 +46,7 @@ article {
     background-color: rgb(218, 217, 216);
     padding: 1.5%;
     border-radius: 5px;
-    border: #19263A solid;
+    border-left: #FFF solid 2px;
 }
 
 
@@ -104,10 +107,6 @@ p {
     font-size: 18px;
 }
 
-#titlePage {
-    color: #FFF;
-    
-}
 
 
 #listaLink {
