@@ -7,30 +7,9 @@
     
     <link rel="stylesheet" href="estilos.css">
     <title>Terceiro Ano</title>
-    <script language="javascript"> 
-        function setCookie(nome, valor, dias){ 
-        diasms = (new Date()) .getTime() + 1000 * 3600 * 24 * dias; 
-        dias = new Date(diasms); 
-        expires = dias.toGMTString(); 
-        document.cookie = escape(nome) + "=" + escape(valor) + "; expires=" + expires; 
-        } 
-        </script>
 </head>
 <body onload="boasVindas()">
-    <script language="javascript">
-if (!document.cookie){
-setCookie("cookie", "1", 365);
-document.write("<font face='verdana' size='1' color='white'>Suas Visitas : 1</font>");
-} else {
-var cont = document.cookie;
-var dividindo = cont.split("=");
-//document.write(dividindo[1]);
-var numero = parseInt(dividindo[1]);
-var soma = numero + 1;
-document.write("<font face='verdana' size='1'>Suas Visitas : " + soma + "</font>");
-setCookie("cookie", soma, 365);
-}
-</script> 
+     
     <div class="container">
         <h1 id="titlePage">Terceiro Oito</h1>
         <p id="atua">Última atualização: 30/05/2023 21h10</p>
